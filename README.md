@@ -1,4 +1,4 @@
-# Data-Science-Final-Project
+# Data-Science-Final-Project: Predicting spread and fatalties of Coronavirus 
 
 Altair plots currently not loading in Data Exploration Notebook... not sure why.
 
